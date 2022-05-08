@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class ReservationsConsumer {
+public class ReservationsConsumer{
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReservationsConsumer.class, args);
