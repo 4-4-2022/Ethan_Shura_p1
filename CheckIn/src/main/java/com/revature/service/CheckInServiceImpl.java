@@ -11,7 +11,7 @@ import com.revature.models.Dog;
 import com.revature.repository.CheckInRepository;
 
 @WebService(endpointInterface = "com.revature.service.CheckInService")
-public class CheckInServiceImpl {
+public class CheckInServiceImpl implements CheckInService{
 	
 	@Autowired
 	private CheckInRepository checkInRepo;
