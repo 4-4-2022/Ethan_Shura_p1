@@ -1,0 +1,115 @@
+11:01:39.474 [restartedMain] INFO  com.revature.Main - Starting Main using Java 17.0.2 on EthanPC with PID 52652 (C:\Users\negat\eclipse-workspace\DoggyDayCareDogs\target\classes started by negat in C:\Users\negat\eclipse-workspace\DoggyDayCareDogs)
+11:01:39.474 [restartedMain] INFO  com.revature.Main - No active profile set, falling back to 1 default profile: "default"
+11:01:39.597 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+11:01:39.607 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interfaces.
+11:01:39.668 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+11:01:39.669 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:01:39.670 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:01:39.670 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+11:01:39.687 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:01:39.687 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 212 ms
+11:01:39.718 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+11:01:39.723 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+11:01:40.174 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+11:01:40.174 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+11:01:40.390 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:01:40.391 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+11:01:40.456 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:01:40.534 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+11:01:40.540 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:01:40.542 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+11:01:40.545 [restartedMain] INFO  com.revature.Main - Started Main in 1.095 seconds (JVM running for 27.279)
+11:01:40.547 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+11:01:42.310 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+11:01:42.322 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+11:01:42.323 [RMI TCP Connection(8)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+11:01:42.532 [RMI TCP Connection(8)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+11:01:44.298 [restartedMain] INFO  com.revature.Main - Starting Main using Java 17.0.2 on EthanPC with PID 57088 (C:\Users\negat\eclipse-workspace\DoggyDayCareDogs\target\classes started by negat in C:\Users\negat\eclipse-workspace\DoggyDayCareDogs)
+11:01:44.300 [restartedMain] INFO  com.revature.Main - No active profile set, falling back to 1 default profile: "default"
+11:01:44.334 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+11:01:44.335 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+11:01:44.819 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+11:01:44.862 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interfaces.
+11:01:45.427 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+11:01:45.434 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:01:45.434 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:01:45.435 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+11:01:45.499 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:01:45.499 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1164 ms
+11:01:45.647 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+11:01:45.687 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.8.Final
+11:01:45.824 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:01:45.907 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+11:01:46.580 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+11:01:46.616 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+11:01:47.292 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:01:47.299 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+11:01:47.553 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11:01:47.804 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+11:01:47.819 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:01:47.835 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+11:01:47.843 [restartedMain] INFO  com.revature.Main - Started Main in 3.786 seconds (JVM running for 4.443)
+11:01:50.391 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:01:50.391 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:01:50.392 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+11:01:50.416 [http-nio-8080-exec-2] INFO  com.revature.utility.Logging - Controller getDogs was called.
+11:01:50.625 [http-nio-8080-exec-2] INFO  com.revature.utility.Logging - getDogsreturned:[Dog [id=6, name=Rudy, owner=Rachel, age=9, breed=Pug, vetRecords=true], Dog [id=4, name=Millie, owner=Paul, age=4, breed=Golden Doodle, vetRecords=true], Dog [id=5, name=Cocoa, owner=Liz, age=6, breed=German Short-haired Pointer, vetRecords=true], Dog [id=8, name=Apple, owner=Fred, age=14, breed=Golden Retriever, vetRecords=true], Dog [id=9, name=Max, owner=Jenna, age=13, breed=Poodle, vetRecords=true]]
+11:01:50.625 [http-nio-8080-exec-2] INFO  com.revature.utility.Logging - After: getDogs
+11:28:06.215 [http-nio-8080-exec-5] INFO  com.revature.utility.Logging - Controller getDogs was called.
+11:28:06.249 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@4d965011 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.282 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@2afe70c (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.315 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@7d463990 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.346 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@2035c8e (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.377 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@5deeb155 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.411 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@2084aa63 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.441 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@6c428d5a (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.473 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@743d5b70 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.505 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@5c7128bb (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.535 [http-nio-8080-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@592346e4 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+11:28:06.717 [http-nio-8080-exec-5] INFO  com.revature.utility.Logging - getDogsreturned:[Dog [id=6, name=Rudy, owner=Rachel, age=9, breed=Pug, vetRecords=true], Dog [id=4, name=Millie, owner=Paul, age=4, breed=Golden Doodle, vetRecords=true], Dog [id=5, name=Cocoa, owner=Liz, age=6, breed=German Short-haired Pointer, vetRecords=true], Dog [id=8, name=Apple, owner=Fred, age=14, breed=Golden Retriever, vetRecords=true], Dog [id=9, name=Max, owner=Jenna, age=13, breed=Poodle, vetRecords=true]]
+11:28:06.717 [http-nio-8080-exec-5] INFO  com.revature.utility.Logging - After: getDogs
+11:28:28.947 [http-nio-8080-exec-6] INFO  com.revature.utility.Logging - Controller addDog was called.
+11:28:29.116 [http-nio-8080-exec-6] INFO  com.revature.utility.Logging - addDogreturned:null
+11:28:29.117 [http-nio-8080-exec-6] INFO  com.revature.utility.Logging - After: addDog
+11:28:31.608 [http-nio-8080-exec-7] INFO  com.revature.utility.Logging - Controller getDogs was called.
+11:28:31.691 [http-nio-8080-exec-7] INFO  com.revature.utility.Logging - getDogsreturned:[Dog [id=6, name=Rudy, owner=Rachel, age=9, breed=Pug, vetRecords=true], Dog [id=4, name=Millie, owner=Paul, age=4, breed=Golden Doodle, vetRecords=true], Dog [id=5, name=Cocoa, owner=Liz, age=6, breed=German Short-haired Pointer, vetRecords=true], Dog [id=8, name=Apple, owner=Fred, age=14, breed=Golden Retriever, vetRecords=true], Dog [id=9, name=Max, owner=Jenna, age=13, breed=Poodle, vetRecords=true], Dog [id=10, name=Mindy, owner=Holly, age=8, breed=Yorkie, vetRecords=true]]
+11:28:31.691 [http-nio-8080-exec-7] INFO  com.revature.utility.Logging - After: getDogs
+11:28:46.979 [http-nio-8080-exec-8] INFO  com.revature.utility.Logging - Controller removeDog was called.
+11:28:47.091 [http-nio-8080-exec-8] INFO  com.revature.utility.Logging - removeDogreturned:null
+11:28:47.092 [http-nio-8080-exec-8] INFO  com.revature.utility.Logging - After: removeDog
+11:28:50.208 [http-nio-8080-exec-9] INFO  com.revature.utility.Logging - Controller getDogs was called.
+11:28:50.290 [http-nio-8080-exec-9] INFO  com.revature.utility.Logging - getDogsreturned:[Dog [id=6, name=Rudy, owner=Rachel, age=9, breed=Pug, vetRecords=true], Dog [id=4, name=Millie, owner=Paul, age=4, breed=Golden Doodle, vetRecords=true], Dog [id=5, name=Cocoa, owner=Liz, age=6, breed=German Short-haired Pointer, vetRecords=true], Dog [id=8, name=Apple, owner=Fred, age=14, breed=Golden Retriever, vetRecords=true], Dog [id=9, name=Max, owner=Jenna, age=13, breed=Poodle, vetRecords=true]]
+11:28:50.290 [http-nio-8080-exec-9] INFO  com.revature.utility.Logging - After: getDogs
+11:39:57.518 [RMI TCP Connection(47)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+11:39:57.539 [RMI TCP Connection(47)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+11:39:57.540 [RMI TCP Connection(47)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+11:39:57.543 [RMI TCP Connection(47)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+12:42:50.573 [restartedMain] INFO  com.revature.Main - Starting Main using Java 17.0.2 on EthanPC with PID 60400 (C:\Users\negat\eclipse-workspace\DoggyDayCareDogs\target\classes started by negat in C:\Users\negat\eclipse-workspace\DoggyDayCareDogs)
+12:42:50.577 [restartedMain] INFO  com.revature.Main - No active profile set, falling back to 1 default profile: "default"
+12:42:50.648 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+12:42:50.648 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+12:42:51.348 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+12:42:51.394 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interfaces.
+12:42:52.004 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+12:42:52.014 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+12:42:52.014 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+12:42:52.014 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+12:42:52.078 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+12:42:52.078 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1429 ms
+12:42:52.232 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+12:42:52.283 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.8.Final
+12:42:52.408 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:42:52.496 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+12:42:53.109 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+12:42:53.138 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+12:42:53.849 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:42:53.857 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+12:42:54.148 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+12:42:54.416 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+12:42:54.428 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+12:42:54.445 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+12:42:54.454 [restartedMain] INFO  com.revature.Main - Started Main in 4.239 seconds (JVM running for 5.265)
+12:50:55.343 [RMI TCP Connection(15)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+12:50:55.361 [RMI TCP Connection(15)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+12:50:55.363 [RMI TCP Connection(15)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+12:50:55.367 [RMI TCP Connection(15)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
